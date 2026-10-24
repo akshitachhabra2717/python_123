@@ -1,4 +1,4 @@
-#My Python Utility Scripts
+#My AI New Python Utility Scripts
 
 A collection of basic Python scripts for simple mathematical operations and text output.
 
